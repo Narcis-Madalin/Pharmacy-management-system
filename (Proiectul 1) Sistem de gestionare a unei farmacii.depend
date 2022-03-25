@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617708430 source:c:\users\madalin\desktop\uvt\anul 1\sem 2\proiecte c\sp\(proiectul 1) sistem de gestionare a unei farmacii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
