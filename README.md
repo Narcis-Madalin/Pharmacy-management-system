@@ -1,0 +1,2 @@
+# Pharmacy-management-system
+This project represents an attempt / simulation of a pharmacy management system, in which the user of the application can manage the stocks of a pharmacy. The application allows you to add, update and delete drugs as well as their quantity or price, and search by drug name or keywords. The user can also see all the medicines in the pharmacy or only those that have a small amount of. The app is written in C and it also uses file manipulation mechanism to retrieve / save data from / to a .txt file.
